@@ -1,4 +1,7 @@
 # Lake of the Ozarks Property Intelligence Dashboard
+## Dashboard Preview
+
+![Dashboard](images/dashboard-overview.png)
 
 A property intelligence and targeting dashboard built to identify, rank, and prioritize high-value waterfront properties for potential dock and marine service outreach.
 
